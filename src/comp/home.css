@@ -11,7 +11,7 @@
     max-width: 100%;
     margin-top: 25px;
     height: 700px;
-    background: url('https://sun9-26.userapi.com/impf/c851132/v851132221/60c23/Epjp4I-FSlc.jpg?size=1244x700&quality=96&sign=5395ee44a062f963cef8400cf0dd0cb1&type=album');
+    background: url('http://localhost:3000/image//slide1.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
