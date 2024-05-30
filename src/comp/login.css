@@ -1,0 +1,28 @@
+.auth-form-container, .login-form, .customer-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5pc;
+    background-color: orange;
+    margin-bottom: 20px;
+    padding: 5rem;
+  }
+  
+  label {
+    padding: 0.25rem 0;
+  }
+  
+  input {
+    text-align: left;
+    margin: 0.25rem 0;
+    border-radius: 5px;
+  }
+  
+  button {
+    border: none;
+    background-color: white;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
